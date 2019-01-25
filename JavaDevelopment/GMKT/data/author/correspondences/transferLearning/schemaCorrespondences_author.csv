@@ -1,0 +1,15 @@
+"DBPediaAuthors.csv~label","WikiDataAuthors.csv~label",0.5
+"DBPediaAuthors.csv~label","VIAFDataAuthors.csv~name",0.5
+"DBPediaAuthors.csv~label","DnbDataAuthors.csv~preferrednamefortheperson",0.5
+"DBPediaAuthors.csv~birthdate","WikiDataAuthors.csv~date of birth",0.2
+"DBPediaAuthors.csv~birthdate","VIAFDataAuthors.csv~birthdate",0.2
+"DBPediaAuthors.csv~birthdate","DnbDataAuthors.csv~dateofbirth",0.2
+"DBPediaAuthors.csv~deathdate","WikiDataAuthors.csv~date of death",0.1
+"DBPediaAuthors.csv~deathdate","VIAFDataAuthors.csv~deathdate",0.1
+"DBPediaAuthors.csv~deathdate","DnbDataAuthors.csv~dateofdeath",0.1
+"DBPediaAuthors.csv~gender","WikiDataAuthors.csv~sex or gender",0.2
+"DBPediaAuthors.csv~gender","VIAFDataAuthors.csv~gender",0.2
+"DBPediaAuthors.csv~gender","DnbDataAuthors.csv~gender",0.2
+"DBPediaAuthors.csv~work","WikiDataAuthors.csv~notable work",0.2
+"DBPediaAuthors.csv~work","VIAFDataAuthors.csv~notablework",0.2
+"DBPediaAuthors.csv~work","DnbDataAuthors.csv~work",0.2

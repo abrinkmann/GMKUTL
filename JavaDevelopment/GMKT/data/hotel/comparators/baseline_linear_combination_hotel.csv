@@ -1,0 +1,6 @@
+hotels_revngo.com.csv~hotel_name,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true
+hotels_revngo.com.csv~postalcode,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true
+hotels_revngo.com.csv~streetaddress,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true
+hotels_revngo.com.csv~addresslocality,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true
+hotels_revngo.com.csv~frequent_part_hotel_name,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true
+hotels_revngo.com.csv~infrequent_part_hotel_name,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true

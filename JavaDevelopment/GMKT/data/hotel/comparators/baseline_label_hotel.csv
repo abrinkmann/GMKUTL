@@ -1,0 +1,2 @@
+hotels_revngo.com.csv~hotel_name,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorLevenshtein,double,0.3,boolean,true,boolean,true,boolean,true
+hotels_revngo.com.csv~hotel_name,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.3,boolean,true,boolean,true,boolean,true

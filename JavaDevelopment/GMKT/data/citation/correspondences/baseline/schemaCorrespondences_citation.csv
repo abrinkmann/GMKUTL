@@ -1,0 +1,8 @@
+"dblp.csv~title","acm.csv~title",0.25
+"dblp.csv~title","scholar.csv~title",0.25
+"dblp.csv~authors","acm.csv~authors",0.25
+"dblp.csv~authors","scholar.csv~authors",0.25
+"dblp.csv~venue","acm.csv~venue",0.25
+"dblp.csv~venue","scholar.csv~venue",0.25
+"dblp.csv~year","acm.csv~year",0.25
+"dblp.csv~year","scholar.csv~year",0.25

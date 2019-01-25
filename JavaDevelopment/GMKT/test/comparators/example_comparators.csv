@@ -1,0 +1,8 @@
+DBPediaAuthors.csv::http://www.w3.org/2000/01/rdf-schema#label,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorLevenshtein
+DBPediaAuthors.csv::http://www.w3.org/2000/01/rdf-schema#label,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.3,boolean,true
+DBPediaAuthors.csv::http://dbpedia.org/ontology/birthDate,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorDateLevenshtein
+DBPediaAuthors.csv::http://dbpedia.org/ontology/birthDate,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorDateYear
+DBPediaAuthors.csv::http://dbpedia.org/ontology/birthDate,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorDateYearMonth
+DBPediaAuthors.csv::http://dbpedia.org/ontology/deathDate,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorDateLevenshtein
+DBPediaAuthors.csv::http://dbpedia.org/ontology/deathDate,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorDateYear
+DBPediaAuthors.csv::http://dbpedia.org/ontology/deathDate,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorDateYearMonth

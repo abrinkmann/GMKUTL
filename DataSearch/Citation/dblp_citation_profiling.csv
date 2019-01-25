@@ -1,0 +1,4 @@
+"","authors","frequent_part_title","infrequent_part_title","title","venue","year"
+"Data Type","list","string","string","string","string","date"
+"Density","0.961","0.562","1.0","1.0","0.966","1.0"
+"Uniqueness","0.896","0.029","0.491","0.494","0.001","0.002"

@@ -1,0 +1,5 @@
+DBPediaCity.csv~label,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true
+DBPediaCity.csv~lat,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorPercentageSimilarity,double,0.2,boolean,true
+DBPediaCity.csv~long,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorPercentageSimilarity,double,0.2,boolean,true
+DBPediaCity.csv~country,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true
+DBPediaCity.csv~population,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorPercentageSimilarity,double,0.2,boolean,true

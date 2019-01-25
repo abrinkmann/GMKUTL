@@ -1,0 +1,5 @@
+"authors","frequent_part_title","infrequent_part_title","title","venue","year"
+"list","string","string","string","string","date"
+"1.0","0.235","0.999","1.0","0.767","1.0"
+"0.866","0.009","0.961","0.976","0.248","0.002"
+"0.229","0.012","0.072","0.075","0.49","0.621"

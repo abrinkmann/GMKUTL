@@ -1,0 +1,5 @@
+"","birthdate","deathdate","gender","label","work"
+"Data Type","date","date","string","string","string"
+"Density","0.918","0.466","1.0","1.0","0.082"
+"Uniqueness","0.627","0.778","0.0","0.996","0.988"
+"Heterogeneity","0.462","0.232","0.001","0.051","0.046"

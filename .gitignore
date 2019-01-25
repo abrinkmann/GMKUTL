@@ -1,0 +1,15 @@
+
+*.xml
+.idea
+.ipynb_checkpoints
+T2KGoldstandard
+*.html
+*.json
+*.zip
+*.gz
+\.metadata
+\.recommenders
+.bin
+JavaDevelopment/RemoteSystemsTempFiles/.project
+*.model
+*.bin

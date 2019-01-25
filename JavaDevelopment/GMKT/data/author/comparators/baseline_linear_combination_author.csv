@@ -1,0 +1,5 @@
+DBPediaAuthors.csv~label,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true
+DBPediaAuthors.csv~birthdate,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorDateYear,int,5
+DBPediaAuthors.csv~deathdate,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorDateYear,int,5
+DBPediaAuthors.csv~gender,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true
+DBPediaAuthors.csv~work,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorBagOfWordsContainment,boolean,false,double,0.2,boolean,true

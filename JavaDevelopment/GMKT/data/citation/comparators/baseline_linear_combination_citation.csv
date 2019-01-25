@@ -1,0 +1,4 @@
+dblp.csv~title,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,,boolean,true,boolean,true,boolean,true
+dblp.csv~year,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorDateYear,int,5
+dblp.csv~authors,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorBagOfWordsContainment,boolean,false,double,0.0,boolean,true
+dblp.csv~venue,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,double,0.2,boolean,true,boolean,true,boolean,true

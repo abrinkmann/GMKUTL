@@ -1,0 +1,15 @@
+"DBPediaCity.csv~label","GeonamesData.csv~label",0.5
+"DBPediaCity.csv~label","WebTableDataCity.csv~city",0.5
+"DBPediaCity.csv~label","WikiDataCity.csv~label",0.5
+"DBPediaCity.csv~lat","GeonamesData.csv~lat",0.1
+"DBPediaCity.csv~lat","WebTableDataCity.csv~lat",0.1
+"DBPediaCity.csv~lat","WikiDataCity.csv~latitude",0.1
+"DBPediaCity.csv~long","GeonamesData.csv~long",0.1
+"DBPediaCity.csv~long","WebTableDataCity.csv~long",0.1
+"DBPediaCity.csv~long","WikiDataCity.csv~longitude",0.1
+"DBPediaCity.csv~country","GeonamesData.csv~parentcountry",0.2
+"DBPediaCity.csv~country","WebTableDataCity.csv~country",0.2
+"DBPediaCity.csv~country","WikiDataCity.csv~country",0.2
+"DBPediaCity.csv~population","GeonamesData.csv~population",0.1
+"DBPediaCity.csv~population","WebTableDataCity.csv~city population",0.1
+"DBPediaCity.csv~population","WikiDataCity.csv~population",0.1

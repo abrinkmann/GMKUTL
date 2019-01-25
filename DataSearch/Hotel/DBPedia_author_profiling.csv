@@ -1,0 +1,4 @@
+"","addresscountry","addresslocality","frequent_part_hotel_name","hotel_name","infrequent_part_hotel_name","postalcode","streetaddress"
+"Data Type","string","string","string","string","string","string","string"
+"Density","0.911","0.999","0.72","1.0","1.0","0.965","0.999"
+"Uniqueness","0.064","0.297","0.065","1.0","0.98","0.502","0.997"

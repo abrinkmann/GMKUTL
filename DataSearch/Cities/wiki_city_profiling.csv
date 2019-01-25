@@ -1,0 +1,5 @@
+"","country","label","latitude","longitude","population"
+"Data Type","string","string","coordinate","coordinate","numeric"
+"Density","0.999","1.0","1.0","1.0","1.0"
+"Uniqueness","0.009","0.859","0.871","0.922","0.528"
+"Heterogeneity","0.27","0.325","0.338","0.332","0.498"

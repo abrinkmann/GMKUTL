@@ -1,0 +1,2 @@
+DBPediaAuthors.csv~label,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorJaccard,,boolean,true
+DBPediaAuthors.csv~label,de.uni_mannheim.informatik.dws.GMKT.match.comparators.RowComparatorLevenshtein,boolean,true
